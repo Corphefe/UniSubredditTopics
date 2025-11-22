@@ -2,7 +2,7 @@
 Data Science Project on Data annotation and Manual encoding.
 
 ## Data
-The data was dwnloaded directly off of the Reddit API's /new posts on the subreddits r/mcgill, and r/concordia. Theraw json is stored in mcgill.json, and concordian.json.
+The data was dwnloaded directly off of the Reddit API's /new posts on the subreddits r/mcgill, and r/concordia. The raw json is stored in mcgill.json, and concordian.json.
 
 ## Tools
 extract_to_csv.py is a CLI tool which takes in a Reddit json file and randomly extracts the user id and Title of a sepcificed number of posts and writes the information into an output file in the format "Author\tTitle\t".
