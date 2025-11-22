@@ -10,6 +10,6 @@ Its usage is:
 
 python3 extract_to_csv.py -o annotated_mcgill.tsv mcgill.json 50
 
-This tool was used to create annotated_concordia.tsv, and annotated_mcgill.tsv. In these files we manually labelled each title some encoding, conceptalizing a typology as we go. 
+This tool was used to create final_labeled_dataset_concordia.tsv, and final_labeled_dataset_mcgill.tsv. In these files we manually labelled each title some encoding, based on a typology that we conceptualized via prior open coding. 
 
-This typology (with 7 categories) is summarized in codebok.md
+This typology (with 8 categories) is summarized in taxonomy_guide.md
