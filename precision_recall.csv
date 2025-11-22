@@ -1,0 +1,8 @@
+label,precision,recall
+Academic,0.0,0.0
+Admissions,0.0,0.0
+Course,0.8125,0.9285714285714286
+Current Events & Activism,0.75,1.0
+Leisure & Lifestyle,0.7142857142857143,0.7142857142857143
+Life & Resources,0.375,0.5
+Work & Research,0.5,1.0

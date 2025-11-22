@@ -134,7 +134,3 @@ DO NOT USE WHEN: The post is related to academics, leisure, and/or private life.
 EDGE CASES: Some posts may mention academics or etc for the purpose of getting work. These can be categorized by work as the bigger picture goal.
 
 - GPA for internships
-		
-			
-			
-	 		
